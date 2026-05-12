@@ -5,7 +5,7 @@ pages_build_output_dir = ".vercel/output/static"
 
 [env.production.vars]
 GITHUB_CLIENT_ID = "Ov23liXHXSPwDeLEcOE1"
-GITHUB_OWNER = "alienx0114"
+GITHUB_OWNER = "AlienX0114"
 GITHUB_REPO = "NavSphere"
 GITHUB_BRANCH = "main"
 NEXTAUTH_URL = "https://nav.alienx.cc.cd/api/auth"

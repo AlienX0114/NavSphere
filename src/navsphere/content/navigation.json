@@ -38,6 +38,14 @@
               "href": "https://ai.alienx.ggff.net/",
               "description": "在线简单AI文生图",
               "icon": "/assets/favicon_1778598598182.ico"
+            },
+            {
+              "id": "item-1778598703528",
+              "enabled": true,
+              "title": "Solara",
+              "href": "https://music.alienx.ggff.net/",
+              "description": "音乐搜索,试听,下载",
+              "icon": "/assets/favicon_1778598685258.svg"
             }
           ]
         }

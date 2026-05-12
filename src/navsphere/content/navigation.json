@@ -14,7 +14,16 @@
           "icon": "Network",
           "description": "个人搭建站点",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "item-1778595641446",
+              "enabled": true,
+              "title": "订阅管理系统",
+              "href": "https://sub.alienx.cc.cd/",
+              "description": "订阅管理系统",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=sub.alienx.cc.cd"
+            }
+          ]
         }
       ]
     },

@@ -7,7 +7,16 @@
       "description": "站长目录",
       "enabled": true,
       "items": [],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "b43e4451-dbe0-4051-a5e7-175147a85bc9",
+          "title": "个人站点",
+          "icon": "Network",
+          "description": "个人搭建站点",
+          "enabled": true,
+          "items": []
+        }
+      ]
     },
     {
       "id": "1",

@@ -1544,6 +1544,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1778595434003",
+      "title": "AlienX",
+      "icon": "Box",
+      "description": "站长目录",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }

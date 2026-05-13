@@ -168,7 +168,8 @@ export function NavigationContent({ navigationData, siteData }: NavigationConten
                 </Button>
               </Link>
               <ModeToggle />
-              <Link
+              {/*
+              <链接
                 href="https://github.com/tianyaxiang/NavSphere"
                 target="_blank"
                 rel="noopener noreferrer"
@@ -210,6 +211,7 @@ export function NavigationContent({ navigationData, siteData }: NavigationConten
                   <HelpCircle className="h-5 w-5" />
                 </Button>
               </Link>
+              */}
               <Button
                 variant="ghost"
                 size="icon"

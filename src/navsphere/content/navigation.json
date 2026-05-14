@@ -48,6 +48,14 @@
               "icon": "/assets/favicon_1778598685258.svg"
             }
           ]
+        },
+        {
+          "id": "7f0bae7d-b9b3-4893-8fd2-9d4664dc5bf6",
+          "title": "个人常用",
+          "icon": "Heart",
+          "description": "个人常用站点",
+          "enabled": true,
+          "items": []
         }
       ]
     },

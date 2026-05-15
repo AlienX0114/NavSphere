@@ -54,6 +54,14 @@
               "href": "https://media.alienx.cc.cd/",
               "description": "影视聚合",
               "icon": "/assets/favicon_1778773040774.png"
+            },
+            {
+              "id": "item-1778854119657",
+              "enabled": true,
+              "title": "AlienX'Media",
+              "href": "https://media.alienx.cc.cd/login?redirect=%2F",
+              "description": "个人影视聚合",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=media.alienx.cc.cd"
             }
           ]
         },

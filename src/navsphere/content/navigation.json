@@ -46,6 +46,14 @@
               "href": "https://music.alienx.ggff.net/",
               "description": "音乐搜索,试听,下载",
               "icon": "/assets/favicon_1778598685258.svg"
+            },
+            {
+              "id": "item-1778908320785",
+              "enabled": true,
+              "title": "AlienX'Media",
+              "href": "https://media.alienx.cc.cd/",
+              "description": "影视聚合",
+              "icon": "/assets/favicon_1778908302025.png"
             }
           ]
         },

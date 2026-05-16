@@ -60,7 +60,7 @@
               "title": "LX个人音乐播放器",
               "href": "http://alienx.ggff.net:8000/music/login",
               "description": "在线音乐播放器",
-              "icon": "http://alienx.ggff.net:8000/assets/logo.svg",
+              "icon": "/assets/img_1778939542633.png",
               "enabled": true
             }
           ]

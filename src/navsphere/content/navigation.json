@@ -54,6 +54,14 @@
               "href": "https://media.alienx.cc.cd/",
               "description": "影视聚合",
               "icon": "/assets/favicon_1778908302025.png"
+            },
+            {
+              "id": "site_1778939122326_jda5x7hh8",
+              "title": "LX个人音乐播放器",
+              "href": "http://alienx.ggff.net:8000/music/login",
+              "description": "在线音乐播放器",
+              "icon": "http://alienx.ggff.net:8000/assets/logo.svg",
+              "enabled": true
             }
           ]
         },

@@ -33,11 +33,11 @@
             },
             {
               "id": "item-1778598627792",
-              "enabled": true,
-              "title": "基于 CloudFlare 的在线文生图服务",
+              "title": "基于 CloudFlare 在线文生图服务",
               "href": "https://ai.alienx.ggff.net/",
               "description": "在线简单AI文生图",
-              "icon": "/assets/favicon_1778598598182.ico"
+              "icon": "/assets/favicon_1778598598182.ico",
+              "enabled": true
             },
             {
               "id": "item-1778598703528",

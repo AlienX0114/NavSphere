@@ -63,16 +63,7 @@
           "icon": "Heart",
           "description": "个人常用站点",
           "enabled": true,
-          "items": [
-            {
-              "id": "item-1778768802643",
-              "enabled": true,
-              "title": "Libvio发布页",
-              "href": "https://www.libvio.app/",
-              "description": "在线影视",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.libvio.app"
-            }
-          ]
+          "items": []
         }
       ]
     },

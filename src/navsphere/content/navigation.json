@@ -103,6 +103,14 @@
               "href": "https://mini4k.io/",
               "description": "mini4k迷客电影，每日更新最新电影资源，最专业电影推荐，2160P、4K等超高清分辨率电影迅雷下载、百度网盘下载，提供bt种子和磁力链接下载资源。",
               "icon": "/assets/favicon_1779369887620.ico"
+            },
+            {
+              "id": "item-1779369997013",
+              "enabled": true,
+              "title": "BD影视聚合分享",
+              "href": "https://www.bdjuhe.com/",
+              "description": "BD影视分享,主要提供丰富的影视资源下载,并且可以在线云播预览,上映之后三个月内发布枪版,三个月之后发布蓝光高清下载,免费下载电影就来BD影视",
+              "icon": "/assets/favicon_1779369973411.ico"
             }
           ]
         }

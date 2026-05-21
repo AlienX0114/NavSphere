@@ -111,6 +111,14 @@
               "href": "https://www.bdjuhe.com/",
               "description": "BD影视分享,主要提供丰富的影视资源下载,并且可以在线云播预览,上映之后三个月内发布枪版,三个月之后发布蓝光高清下载,免费下载电影就来BD影视",
               "icon": "/assets/favicon_1779369973411.ico"
+            },
+            {
+              "id": "item-1779370087806",
+              "enabled": true,
+              "title": "BT世界网",
+              "href": "https://www.btsj6.com/",
+              "description": "BT世界网提供1080P和2160P高清电影BT种子迅雷下载、美剧BT种子迅雷下载，本站电影电视剧均支持手机网盘离线下载后在线观看，是您的迅雷下载磁力天堂。",
+              "icon": "/assets/favicon_1779370079781.ico"
             }
           ]
         }

@@ -95,6 +95,14 @@
               "description": "影视下载",
               "icon": "/assets/favicon_1779369830132.png",
               "enabled": true
+            },
+            {
+              "id": "item-1779369906789",
+              "enabled": true,
+              "title": "MINI4K迷客电影",
+              "href": "https://mini4k.io/",
+              "description": "mini4k迷客电影，每日更新最新电影资源，最专业电影推荐，2160P、4K等超高清分辨率电影迅雷下载、百度网盘下载，提供bt种子和磁力链接下载资源。",
+              "icon": "/assets/favicon_1779369887620.ico"
             }
           ]
         }

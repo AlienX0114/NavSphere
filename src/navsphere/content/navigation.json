@@ -62,6 +62,14 @@
               "description": "在线音乐播放器",
               "icon": "/assets/img_1778939928420.png",
               "enabled": true
+            },
+            {
+              "id": "site_1780131849776_oevvdn0fv",
+              "title": "NodeCrypt",
+              "href": "https://chat.alienx.cc.cd/",
+              "description": "网页端聊天系统",
+              "icon": "/assets/favicon_1780131811725.svg",
+              "enabled": true
             }
           ]
         },

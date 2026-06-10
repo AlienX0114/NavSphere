@@ -82,11 +82,11 @@
           "items": [
             {
               "id": "item-1778908910025",
-              "enabled": true,
               "title": "Libvio发布页",
               "href": "https://www.libvio.app/",
               "description": "在线影视",
-              "icon": "https://www.libvio.run/statics/img/favicon.ico"
+              "icon": "/assets/img_1781104908649.png",
+              "enabled": true
             },
             {
               "id": "site_1779369711388_oxpr8tke0",

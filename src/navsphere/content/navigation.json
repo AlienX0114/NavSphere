@@ -127,6 +127,22 @@
               "href": "https://www.btsj6.com/",
               "description": "BT世界网提供1080P和2160P高清电影BT种子迅雷下载、美剧BT种子迅雷下载，本站电影电视剧均支持手机网盘离线下载后在线观看，是您的迅雷下载磁力天堂。",
               "icon": "/assets/favicon_1779370079781.ico"
+            },
+            {
+              "id": "site_1782054840101_r7l8b5jsk",
+              "title": "Unlimited AI",
+              "href": "https://unlimited.surf/",
+              "description": "Every model. One chat. GPT, Claude, Gemini, DeepSeek, Grok, Qwen, Kimi and Llama in a single nonchalant interface. No keys, no signup.",
+              "icon": "/assets/img_1782054826680.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1782054850574_13in2q7is",
+              "title": "Unlimited AI",
+              "href": "https://unlimited.surf/",
+              "description": "Every model. One chat. GPT, Claude, Gemini, DeepSeek, Grok, Qwen, Kimi and Llama in a single nonchalant interface. No keys, no signup.",
+              "icon": "/assets/img_1782054826680.png",
+              "enabled": true
             }
           ]
         }

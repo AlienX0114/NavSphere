@@ -119,6 +119,14 @@
               "href": "https://www.btsj6.com/",
               "description": "BT世界网提供1080P和2160P高清电影BT种子迅雷下载、美剧BT种子迅雷下载，本站电影电视剧均支持手机网盘离线下载后在线观看，是您的迅雷下载磁力天堂。",
               "icon": "/assets/favicon_1779370079781.ico"
+            },
+            {
+              "id": "site_1784213045216_s8azdz817",
+              "title": "低调影视",
+              "href": "https://ddys.app/",
+              "description": "在线影视观看",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=ddys.app",
+              "enabled": true
             }
           ]
         }
